@@ -6,9 +6,12 @@ The Corporate Structure for Blockchain Ventures Challenge
 
 **Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the The Corporate Structure for Blockchain Ventures Challenge.
 
+
+
 # Team Participation
 
-To register your team project for the Sovereign Legal Identity Challenge, submit a [GitHub Issue](https://github.com/BLIP-CLBF) with the following information: 
+To register your team project for the orporate Structure for Blockchain Ventures Challenge, submit a [GitHub Issue](https://github.com/BLIP-CLBF) with the following information: 
+
 * The name of your project and your team name;
 * The names of your team members including the GitHub username of at least one member;
 * The URL of the GitHub repository where your project will be developed and submitted;
